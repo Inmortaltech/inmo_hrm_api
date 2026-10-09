@@ -1,0 +1,1 @@
+import{j as t}from"./index-wq9nzfnc.js";/* empty css                             */const a=({data:s})=>t.jsx("div",{className:"row mt-2",children:t.jsx("div",{className:"col-md-12 text-center",children:t.jsx("div",{className:"casino-result-cards",children:t.jsx("img",{src:"/admin/v91/static/admin/img/roulette/"+s.win+".png",height:50})})})});export{a as default};

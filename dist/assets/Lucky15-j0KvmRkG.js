@@ -1,0 +1,1 @@
+import{j as s}from"./index-wq9nzfnc.js";/* empty css                             */const l=({data:a})=>s.jsx("div",{className:"d-flex justify-content-center",children:s.jsxs("div",{className:"cricket20ballpopup cricket20ballresult",children:[s.jsx("img",{src:"/admin/v91/static/admin/img/balls/ball-blank.png"})," ",s.jsx("span",{children:a?.rdesc})]})});export{l as default};

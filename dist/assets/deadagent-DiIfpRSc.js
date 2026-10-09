@@ -1,0 +1,1 @@
+import{j as e}from"./index-wq9nzfnc.js";import{U as t}from"./UserDetailsPage-Bi1sO181.js";const a=()=>e.jsx(t,{title:"Agent Details",role:"super-master",childRole:"Agent",clientCommLabel:"Agent Comm %"});export{a as default};

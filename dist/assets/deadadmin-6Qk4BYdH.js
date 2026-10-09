@@ -1,0 +1,1 @@
+import{j as e}from"./index-wq9nzfnc.js";import{U as i}from"./UserDetailsPage-Bi1sO181.js";const o=()=>e.jsx(i,{title:"Sub Admin Details",role:"admin",childRole:"Sub Admin",clientCommLabel:"Sub Admin Comm %"});export{o as default};

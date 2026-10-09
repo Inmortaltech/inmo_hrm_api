@@ -1,0 +1,1 @@
+import{f as r,j as t}from"./index-wq9nzfnc.js";import o from"./sportPrivilege-mQiFRJLC.js";import"./react-select.esm-D409XAyL.js";import"./Select-ef7c0426.esm-a6-bc_2D.js";import"./defineProperty-fOi3EkuK.js";import"./configuration-CgDVmy0C.js";const x=()=>{const{user:s}=r();return t.jsx(o,{})};export{x as default};
